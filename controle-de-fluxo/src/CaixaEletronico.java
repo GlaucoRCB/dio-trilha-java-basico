@@ -26,5 +26,6 @@ public class CaixaEletronico {
 
         }
 
+        scanner.close();
     }
 }
